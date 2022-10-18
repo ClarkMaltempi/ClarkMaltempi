@@ -16,6 +16,7 @@
  <img align="center" alt="ClarkMaltempi-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="ClarkMaltempi-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="ClarkMaltempi-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img align="center" alt="ClarkMaltempi-Java" height="40" width="50" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png">
   </div>
 <!--
 **ClarkMaltempi/ClarkMaltempi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
